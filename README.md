@@ -6,7 +6,7 @@ This app counts the number of clicks, both minus and plus.
 
 [DEMO_LINK](https://boikoua.github.io/react_counter/)
 
-## Screenshot
+## Screenshots
 
 ![Example](./counter_1.png)
 ![Example](./counter_2.png)
